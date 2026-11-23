@@ -1,0 +1,19 @@
+{
+  "title": "Spatio-temporal analysis of recorded cancer contact prevalence in EsSalud, Peru, 2019-2022: analysis code",
+  "upload_type": "software",
+  "license": "MIT",
+  "description": "R code for the construction of the analytical dataset, adjacency matrix, Bayesian spatio-temporal model (BYM with INLA), priors, model assessment, sensitivity analyses and the tables and figures of the article 'Geographical variation in cancer prevalence during and after COVID-19 in Peru based on the social health insurance system'.",
+  "creators": [
+    {"name": "Soto-Becerra, Percy"},
+    {"name": "Campos Segura, Anthony Vladimir"},
+    {"name": "Osada, Jorge"},
+    {"name": "Díaz-Obregón, Daysi"},
+    {"name": "De La Cruz-Vargas, Jhony"},
+    {"name": "Murillo Carrasco, Alexis Germán"},
+    {"name": "Beltrán, Brady"}
+  ],
+  "keywords": ["cancer epidemiology", "disease mapping", "Bayesian spatial model", "INLA", "Peru"],
+  "related_identifiers": [
+    {"identifier": "10.6084/m9.figshare.32043702", "relation": "isSupplementedBy", "scheme": "doi"}
+  ]
+}

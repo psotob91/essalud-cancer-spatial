@@ -1,0 +1,28 @@
+# R
+.Rproj.user/
+.Rhistory
+.RData
+.Rdata
+.Ruserdata
+
+# renv library (renv.lock is tracked)
+renv/library/
+renv/staging/
+renv/local/
+
+# Data and results are generated, never committed
+data/*
+!data/README.md
+output/
+
+# INLA graph files written outside output/
+*.adj
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Full MINSA downloads (only the department aggregates are tracked)
+data-raw/positivos_covid.csv
+data-raw/fallecidos_covid.csv

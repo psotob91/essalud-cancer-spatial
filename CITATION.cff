@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the article and this repository."
+title: "Spatio-temporal analysis of recorded cancer contact prevalence in EsSalud, Peru, 2019-2022: analysis code"
+type: software
+license: MIT
+repository-code: "https://github.com/psotob91/essalud-cancer-spatial"
+authors:
+  - family-names: Soto-Becerra
+    given-names: Percy
+  - family-names: Campos Segura
+    given-names: Anthony Vladimir
+  - family-names: Osada
+    given-names: Jorge
+  - family-names: Díaz-Obregón
+    given-names: Daysi
+  - family-names: De La Cruz-Vargas
+    given-names: Jhony
+  - family-names: Murillo Carrasco
+    given-names: Alexis Germán
+  - family-names: Beltrán
+    given-names: Brady
+keywords:
+  - cancer epidemiology
+  - disease mapping
+  - Bayesian spatial model
+  - INLA
+  - Peru
+references:
+  - type: dataset
+    title: "Cancer Contact Prevalence in Peru 2019-2022"
+    doi: 10.6084/m9.figshare.32043702
+    license: CC-BY-4.0
