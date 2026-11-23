@@ -132,7 +132,7 @@ INLA results can differ in the third decimal between INLA versions and operating
 
 ## Citation
 
-If you use this code, please cite the article above and this repository (see `CITATION.cff`). The archived version of the repository has a permanent DOI on Zenodo.
+If you use this code, please cite the article above and this repository (see `CITATION.cff`). Version 1.0.0 of the repository, the one described in the article, is permanently archived in Software Heritage (<https://archive.softwareheritage.org/browse/origin/?origin_url=https://github.com/psotob91/essalud-cancer-spatial>).
 
 ## Licence
 
